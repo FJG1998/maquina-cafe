@@ -1,5 +1,12 @@
 <?php
 include('datos.php');
+include('ticket.php');
 
-    // #Calculo de cambio segun el precio del producto
+// #Para que saque los billetes y monedas necesarios para el cambio
+
+function cambio($dinerointroducido,$precio){
+
+    
+
+}
 
